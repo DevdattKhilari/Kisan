@@ -20,7 +20,7 @@ SmartFarm is a web-based application that provides farmers with valuable insight
 - Machine Learning: Python, scikit-learn, TensorFlow
 - Image Recognition: Pytorch, TensorFlow
 
-## Installation
+
 
 1. Clone the repository:
    ```sh
