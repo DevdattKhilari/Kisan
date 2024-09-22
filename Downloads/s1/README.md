@@ -1,4 +1,4 @@
-# Bhoomi: Agricultural Decision Support System
+# Kisan-Mitra: Agricultural Decision Support System
 
 SmartFarm is a web-based application that provides farmers with valuable insights and recommendations to improve crop yield and manage crop health. With features such as crop prediction, fertilizer suggestion based on soil analysis, and crop disease detection with prevention suggestions, SmartFarm aims to empower farmers with data-driven decision-making tools.
 
